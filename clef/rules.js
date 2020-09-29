@@ -1,0 +1,3 @@
+function ApproveListing() {
+    return "Approve"
+}
